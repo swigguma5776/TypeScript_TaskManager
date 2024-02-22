@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', 'Nunito', sans-serif;
+    background-color: aquamarine;
+    color: grey;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
